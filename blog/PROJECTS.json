@@ -1,0 +1,101 @@
+{
+  "blog": {
+    "site_name": "maxpat.ch synth blog",
+    "site_base_url": "https://maxpat.ch/synthblog",
+    "output_dir": "blog/posts"
+  },
+  "projects": [
+    {
+      "title": "BinaryLFO (Max for Live)",
+      "slug": "max4live-binary-lfo",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "readme_path": "Max4Live/README.md",
+      "section_heading": "### 3. BinaryLFO (Audio Effect)",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live"
+    },
+    {
+      "title": "VibeEuclid (Max for Live)",
+      "slug": "max4live-vibeeuclid",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "readme_path": "Max4Live/README.md",
+      "section_heading": "### 2. VibeEuclid (MIDI Effect)",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live"
+    },
+    {
+      "title": "VibeDelay (Max for Live)",
+      "slug": "max4live-vibedelay",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "readme_path": "Max4Live/README.md",
+      "section_heading": "### 1. VibeDelay (Audio Effect)",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live"
+    },
+    {
+      "title": "MicroKorgCCMapper (Max for Live)",
+      "slug": "max4live-microkorg-cc-mapper",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "readme_path": "Max4Live/README.md",
+      "section_heading": "### 4. MicroKorgCCMapper (MIDI Effect)",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live"
+    },
+    {
+      "title": "VCV Rack Modules Collection",
+      "slug": "vcv-rack-modules-collection",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules",
+      "readme_path": "vcv-rack-modules/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules"
+    },
+    {
+      "title": "OBF (VCV Rack)",
+      "slug": "vcv-obf",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/OBF",
+      "readme_path": "vcv-rack-modules/OBF/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/OBF"
+    },
+    {
+      "title": "Sonogenese (VCV Rack)",
+      "slug": "vcv-sonogenese",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/Sonogenese",
+      "readme_path": "vcv-rack-modules/Sonogenese/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/Sonogenese"
+    },
+    {
+      "title": "Diffusaire (VCV Rack)",
+      "slug": "vcv-diffusaire",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/Diffusaire",
+      "readme_path": "vcv-rack-modules/Diffusaire/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/Diffusaire"
+    },
+    {
+      "title": "Random Drift Delay (VST)",
+      "slug": "vst-random-drift-delay",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/RandomDriftDelay",
+      "readme_path": "vst-plugins/RandomDriftDelay/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/vst-plugins/RandomDriftDelay"
+    },
+    {
+      "title": "DubWise (VST)",
+      "slug": "vst-dubwise",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/DubWise",
+      "readme_path": "vst-plugins/DubWise/README.md",
+      "github_url": "https://github.com/maxpatzelt/DubWise"
+    },
+    {
+      "title": "RTL-SDR VST3",
+      "slug": "vst-rtl-sdr-vst3",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/SDR-VST",
+      "readme_path": "vst-plugins/SDR-VST/README.md",
+      "github_url": "https://github.com/maxpatzelt/rtl-sdr-vst3"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "generated_at_utc": "2026-10-24T19:07:18Z",
+  "site_name": "maxpat.ch synth blog",
+  "site_base_url": "https://maxpat.ch/synthblog",
+  "posts": [
+    {
+      "slug": "max4live-binary-lfo",
+      "title": "BinaryLFO (Max for Live)",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "source_readme": "Max4Live/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live",
+      "used_section_heading": "### 3. BinaryLFO (Audio Effect)",
+      "output_path": "blog/posts/max4live-binary-lfo.md"
+    },
+    {
+      "slug": "max4live-vibeeuclid",
+      "title": "VibeEuclid (Max for Live)",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "source_readme": "Max4Live/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live",
+      "used_section_heading": "### 2. VibeEuclid (MIDI Effect)",
+      "output_path": "blog/posts/max4live-vibeeuclid.md"
+    },
+    {
+      "slug": "max4live-vibedelay",
+      "title": "VibeDelay (Max for Live)",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "source_readme": "Max4Live/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live",
+      "used_section_heading": "### 1. VibeDelay (Audio Effect)",
+      "output_path": "blog/posts/max4live-vibedelay.md"
+    },
+    {
+      "slug": "max4live-microkorg-cc-mapper",
+      "title": "MicroKorgCCMapper (Max for Live)",
+      "project_type": "max4live",
+      "repo_path": "Max4Live",
+      "source_readme": "Max4Live/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/Max4Live",
+      "used_section_heading": "### 4. MicroKorgCCMapper (MIDI Effect)",
+      "output_path": "blog/posts/max4live-microkorg-cc-mapper.md"
+    },
+    {
+      "slug": "vcv-rack-modules-collection",
+      "title": "VCV Rack Modules Collection",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules",
+      "source_readme": "vcv-rack-modules/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vcv-rack-modules-collection.md"
+    },
+    {
+      "slug": "vcv-obf",
+      "title": "OBF (VCV Rack)",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/OBF",
+      "source_readme": "vcv-rack-modules/OBF/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/OBF",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vcv-obf.md"
+    },
+    {
+      "slug": "vcv-sonogenese",
+      "title": "Sonogenese (VCV Rack)",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/Sonogenese",
+      "source_readme": "vcv-rack-modules/Sonogenese/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/Sonogenese",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vcv-sonogenese.md"
+    },
+    {
+      "slug": "vcv-diffusaire",
+      "title": "Diffusaire (VCV Rack)",
+      "project_type": "vcv",
+      "repo_path": "vcv-rack-modules/Diffusaire",
+      "source_readme": "vcv-rack-modules/Diffusaire/README.md",
+      "github_url": "https://github.com/maxpatzelt/VCVRackModules/tree/main/Diffusaire",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vcv-diffusaire.md"
+    },
+    {
+      "slug": "vst-random-drift-delay",
+      "title": "Random Drift Delay (VST)",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/RandomDriftDelay",
+      "source_readme": "vst-plugins/RandomDriftDelay/README.md",
+      "github_url": "https://github.com/maxpatzelt/Audio-Programming/tree/main/vst-plugins/RandomDriftDelay",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vst-random-drift-delay.md"
+    },
+    {
+      "slug": "vst-dubwise",
+      "title": "DubWise (VST)",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/DubWise",
+      "source_readme": "vst-plugins/DubWise/README.md",
+      "github_url": "https://github.com/maxpatzelt/DubWise",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vst-dubwise.md"
+    },
+    {
+      "slug": "vst-rtl-sdr-vst3",
+      "title": "RTL-SDR VST3",
+      "project_type": "vst",
+      "repo_path": "vst-plugins/SDR-VST",
+      "source_readme": "vst-plugins/SDR-VST/README.md",
+      "github_url": "https://github.com/maxpatzelt/rtl-sdr-vst3",
+      "used_section_heading": "",
+      "output_path": "blog/posts/vst-rtl-sdr-vst3.md"
+    }
+  ]
+}

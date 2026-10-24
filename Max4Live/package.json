@@ -1,0 +1,27 @@
+{
+  "name": "max4live-vibe-coder",
+  "version": "0.1.0",
+  "description": "Code-first development environment for Ableton Live Max for Live devices",
+  "type": "module",
+  "main": "src/core/patcher.js",
+  "bin": {
+    "m4l": "src/cli/index.js"
+  },
+  "scripts": {
+    "build": "node src/cli/index.js build",
+    "test": "node --test test/**/*.test.js",
+    "deploy": "node src/cli/index.js deploy",
+    "watch": "node src/cli/index.js watch",
+    "inspect": "node src/cli/index.js inspect"
+  },
+  "keywords": [
+    "max4live",
+    "ableton-live",
+    "cycling74",
+    "audio-dsp",
+    "midi",
+    "v8"
+  ],
+  "author": "Max",
+  "license": "MIT"
+}
